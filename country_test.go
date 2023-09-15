@@ -5,8 +5,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/pioz/countries"
 	"github.com/stretchr/testify/assert"
+	"github.com/velcure/countries"
 )
 
 func TestNotExistingCountry(t *testing.T) {

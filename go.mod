@@ -1,4 +1,4 @@
-module github.com/pioz/countries
+module github.com/velcure/countries
 
 go 1.19
 

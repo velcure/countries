@@ -11,7 +11,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/pioz/countries"
+	"github.com/velcure/countries"
 	"gopkg.in/yaml.v2"
 )
 

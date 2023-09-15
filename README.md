@@ -1,10 +1,10 @@
 # Countries
 
-![Go](https://github.com/pioz/countries/workflows/Go/badge.svg)
-[![Go Report Card](https://goreportcard.com/badge/github.com/pioz/countries)](https://goreportcard.com/report/github.com/pioz/countries)
+![Go](https://github.com/velcure/countries/workflows/Go/badge.svg)
+[![Go Report Card](https://goreportcard.com/badge/github.com/velcure/countries)](https://goreportcard.com/report/github.com/velcure/countries)
 [![codecov](https://codecov.io/gh/pioz/countries/branch/master/graph/badge.svg)](https://codecov.io/gh/pioz/countries)
 [![awesome-go](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)](https://github.com/avelino/awesome-go)
-[![GoReference](https://pkg.go.dev/badge/mod/github.com/pioz/countries)](https://pkg.go.dev/github.com/pioz/countries)
+[![GoReference](https://pkg.go.dev/badge/mod/github.com/velcure/countries)](https://pkg.go.dev/github.com/velcure/countries)
 
 Countries is a port of [Ruby Countries](https://github.com/countries/countries) for Go.
 
@@ -19,7 +19,7 @@ Countries is a port of [Ruby Countries](https://github.com/countries/countries) 
 
 ## Installation
 
-    go get github.com/pioz/countries
+    go get github.com/velcure/countries
 
 ## Usage
 
@@ -227,12 +227,12 @@ fmt.Println(len(countriesInEU))
 // 27
 ```
 
-Please refer to the [godoc](https://godoc.org/github.com/pioz/countries) for all country fields, available functions and more.
+Please refer to the [godoc](https://godoc.org/github.com/velcure/countries) for all country fields, available functions and more.
 Furthermore, tests are a good and helpful starting point.
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/pioz/countries/issues.
+Bug reports and pull requests are welcome on GitHub at https://github.com/velcure/countries/issues.
 
 ## License
 
